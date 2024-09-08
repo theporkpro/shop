@@ -1,0 +1,13 @@
+h1 {text-align: center; color: white; background-color: #a02e2e;}
+img {width: 50%;}
+body {background-image: url("../imgs/prkbg.jpg"); background-attachment: fixed;}
+a {font-size: 25px; font-weight: 900; font-family: Georgia, serif;}
+ul, ol {font-size: 23px; font-family: Georgia, serif; color:white;}
+a:link {color:aqua;}
+a:visited {color:chartreuse}
+p {font-family: Verdana, sans-serif; font-size:29px; color: white; font-weight: bold;}
+.logo {display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;}
+em {color:green; font-style: normal;}
